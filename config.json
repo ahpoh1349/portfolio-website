@@ -1,0 +1,154 @@
+{
+  "site": {
+    "title": "John Doe - Portfolio",
+    "description": "Full Stack Developer specializing in modern web technologies",
+    "author": "John Doe",
+    "url": "https://johndoe.dev",
+    "language": "en",
+    "theme": "modern-blue"
+  },
+  "personal": {
+    "name": "John Doe",
+    "title": "Full Stack Developer",
+    "email": "john.doe@email.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "New York, NY",
+    "bio": "I'm a passionate full stack developer with 3+ years of experience in creating web applications. I love turning complex problems into simple, beautiful designs."
+  },
+  "social": {
+    "github": "https://github.com/johndoe",
+    "linkedin": "https://linkedin.com/in/johndoe",
+    "twitter": "https://twitter.com/johndoe",
+    "email": "john.doe@email.com"
+  },
+  "skills": {
+    "frontend": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React",
+      "Vue.js",
+      "Angular"
+    ],
+    "backend": [
+      "Node.js",
+      "Python",
+      "Express",
+      "Django",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "Figma",
+      "Jest",
+      "Webpack"
+    ]
+  },
+  "projects": [
+    {
+      "id": "ecommerce-platform",
+      "title": "E-Commerce Platform",
+      "description": "A full-featured e-commerce platform built with React and Node.js",
+      "technologies": ["React", "Node.js", "MongoDB"],
+      "image": "images/project1.jpg",
+      "demo": "https://demo-ecommerce.com",
+      "github": "https://github.com/johndoe/ecommerce-platform",
+      "featured": true
+    },
+    {
+      "id": "task-management",
+      "title": "Task Management App",
+      "description": "A collaborative task management application with real-time updates",
+      "technologies": ["Vue.js", "Express", "Socket.io"],
+      "image": "images/project2.jpg",
+      "demo": "https://demo-taskapp.com",
+      "github": "https://github.com/johndoe/task-management",
+      "featured": true
+    },
+    {
+      "id": "analytics-dashboard",
+      "title": "Analytics Dashboard",
+      "description": "A comprehensive analytics dashboard with interactive charts",
+      "technologies": ["Angular", "D3.js", "Python"],
+      "image": "images/project3.jpg",
+      "demo": "https://demo-analytics.com",
+      "github": "https://github.com/johndoe/analytics-dashboard",
+      "featured": true
+    }
+  ],
+  "experience": [
+    {
+      "company": "Tech Solutions Inc.",
+      "position": "Senior Full Stack Developer",
+      "duration": "2022 - Present",
+      "description": "Lead development of web applications using React and Node.js"
+    },
+    {
+      "company": "Digital Agency Co.",
+      "position": "Frontend Developer",
+      "duration": "2021 - 2022",
+      "description": "Developed responsive websites and web applications"
+    },
+    {
+      "company": "Startup Ventures",
+      "position": "Junior Developer",
+      "duration": "2020 - 2021",
+      "description": "Assisted in building MVP products and prototypes"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Technology",
+      "degree": "Bachelor of Science in Computer Science",
+      "duration": "2016 - 2020",
+      "gpa": "3.8/4.0"
+    }
+  ],
+  "settings": {
+    "theme": {
+      "primaryColor": "#3498db",
+      "secondaryColor": "#2c3e50",
+      "accentColor": "#f39c12",
+      "backgroundColor": "#ffffff",
+      "textColor": "#333333"
+    },
+    "animations": {
+      "enabled": true,
+      "duration": "0.6s",
+      "easing": "ease"
+    },
+    "features": {
+      "darkMode": false,
+      "contactForm": true,
+      "analytics": false,
+      "blog": false
+    }
+  },
+  "seo": {
+    "keywords": [
+      "full stack developer",
+      "web developer",
+      "react developer",
+      "node.js developer",
+      "javascript developer",
+      "portfolio"
+    ],
+    "ogImage": "images/og-image.jpg",
+    "twitterCard": "summary_large_image"
+  },
+  "analytics": {
+    "googleAnalytics": "",
+    "googleTagManager": "",
+    "facebookPixel": ""
+  },
+  "deployment": {
+    "platform": "github-pages",
+    "customDomain": "",
+    "ssl": true,
+    "compression": true
+  }
+}
+

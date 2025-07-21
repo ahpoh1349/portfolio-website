@@ -17,7 +17,7 @@ A modern, responsive portfolio website showcasing skills, projects, and experien
 - CSS3 (with Flexbox and Grid)
 - JavaScript (ES6+)
 - Font Awesome icons
-- Google Fonts
+- Solidity
 
 ## Getting Started
 
